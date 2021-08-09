@@ -1,2 +1,3 @@
-# flutter_dev_inventory_management_tool
+# Inventory Management Tool
+Flutter Firebase Development
  
